@@ -12,6 +12,8 @@ I aim to be a FullStack developer!</br></br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mongoDB-47A248?logo=mmongodb&logoColor=white"> </br>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=amazonec2&logoColor=white">
 
+- 🌱 I’m currently learning Spring Security, RN
+- 🔭 I’m currently working on Mobile Programming through RN
 <!--
 **femmefatalehaein/femmefatalehaein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
