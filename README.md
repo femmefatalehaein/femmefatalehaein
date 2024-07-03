@@ -1,7 +1,7 @@
 ### 👋 Hi there!
 I aim to be a full stack developer ❤️‍🔥</br></br>
 💻 learned software at Duksung Women's University 2020-2023 </br></br>
-
+💻 SSAFY 12 2024.07 ~ ing
 <img src="https://img.shields.io/badge/rmfls4359@gmail.com-EA4335?logo=gmail"> <a href="https://velog.io/@femmefatalehaein/"><img src="https://img.shields.io/badge/velog-20C997?logo=velog&logoColor=white"></a>
 
 
@@ -14,7 +14,6 @@ I aim to be a full stack developer ❤️‍🔥</br></br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mongoDB-47A248?logo=mmongodb&logoColor=white"> </br>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=amazonec2&logoColor=white">
 
-🌱 I’m currently learning Spring Security, React Native
 <!--
 **femmefatalehaein/femmefatalehaein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
