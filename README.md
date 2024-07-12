@@ -1,7 +1,7 @@
 ### 👋 Hi there!
-#### I wanna be a full stack developer ❤️‍🔥 </br></br>
-####⚡ Bachelor of software at Duksung Women's University 2020-2023 </br></br>
-####⚡ SSAFY 12 2024.07 ~ ing </br></br>
+#### I wanna be a full stack developer ❤️‍🔥 
+⚡ Bachelor of software at Duksung Women's University 2020-2023 </br></br>
+⚡ SSAFY 12 2024.07 ~ ing </br></br>
 <img src="https://img.shields.io/badge/rmfls4359@gmail.com-EA4335?logo=gmail"> <a href="https://velog.io/@femmefatalehaein/"><img src="https://img.shields.io/badge/velog-20C997?logo=velog&logoColor=white"></a>
 
 
