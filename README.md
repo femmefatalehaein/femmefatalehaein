@@ -14,6 +14,14 @@ I wanna be a full stack developer ❤️‍🔥 </br></br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mongoDB-47A248?logo=mmongodb&logoColor=white"> </br>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=amazonec2&logoColor=white">
 
+### AWARDS
+
+- **2021 제 9회 K-hackathon 우수상**
+- **2023 제 2회 덕성 해커톤 최우수상**
+- **2023 덕성여자대학교 캡스톤 디자인 경연대회 장려상**
+- **2023 제 2회 DS-Datathon 최우수상**
+
+
 <!--
 **femmefatalehaein/femmefatalehaein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
