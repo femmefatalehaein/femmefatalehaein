@@ -1,27 +1,22 @@
 ### 👋 Hi there!
 #### I wanna be a full stack developer ❤️‍🔥 
-
-<img src="https://img.shields.io/badge/rmfls4359@gmail.com-EA4335?logo=gmail"> <a href="https://velog.io/@femmefatalehaein/"><img src="https://img.shields.io/badge/velog-20C997?logo=velog&logoColor=white"></a>
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=femmefatalehaein&hide_progress=true)-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=femmefatalehaein&hide_progress=true)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=femmefatalehaein&show_icons=true&theme=transparent)-->
 ### 🔧 Skills 
 #### BACKEND
-<img src="https://img.shields.io/badge/springboot-green?logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/spring JPA-green?logo=springJPA&logoColor=white"> <img src="https://img.shields.io/badge/spring security-green?logo=springsecurity&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-green?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/spring JPA-green?style=for-the-badge&logo=hibernate&logoColor=white"> <img src="https://img.shields.io/badge/spring security-green?style=for-the-badge&logo=springsecurity&logoColor=white">
 
 #### FRONTEND
-<img src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
 #### MOBILE
-<img src="https://img.shields.io/badge/android studio-FF9900?logo=androidstudio&logoColor=white"> 
+<img src="https://img.shields.io/badge/android studio-FF9900?style=for-the-badge&logo=androidstudio&logoColor=white"> 
 
 #### DB
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mongoDB-47A248?logo=mmongodb&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/mongo DB-47A248?logo=mmongodb&style=for-the-badge&logoColor=white">
 
 #### ETC
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/graphQL-E10098?logo=graphQL&logoColor=white">
-
-
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=amazonec2&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/graphQL-E10098?logo=graphQL&style=for-the-badge&logoColor=white">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=femmefatalehaein)](https://github.com/anuraghazra/github-readme-stats)
 
