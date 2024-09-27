@@ -1,5 +1,5 @@
 ### 👋 Hi there!
-#### 최소비용 최대가치를 꿈꾸는 개발자 박해인입니다!
+#### 최소비용 최대가치를 꿈꾸는 개발자 박해인입니다
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=femmefatalehaein&hide_progress=true)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=femmefatalehaein&show_icons=true&theme=transparent)-->
 ### 🔧 Skills 
