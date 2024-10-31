@@ -17,7 +17,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/mongo DB-47A248?logo=mmongodb&style=for-the-badge&logoColor=white">
 
 #### ETC
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=amazonec2&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/graphQL-E10098?logo=graphQL&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&style=for-the-badge&logoColor=white">  <img src="https://img.shields.io/badge/kafka-231F20?logo=apachekafka&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Redis-FF4438?logo=Redis&style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=amazonec2&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/graphQL-E10098?logo=graphQL&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&style=for-the-badge&logoColor=white">  <img src="https://img.shields.io/badge/kafka-231F20?logo=apachekafka&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Redis-FF4438?logo=Redis&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/github actions-2088FF?logo=githubactions&style=for-the-badge&logoColor=white">
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=femmefatalehaein&hide=stars&all_commits_include=true)](https://github.com/anuraghazra/github-readme-stats)
 
