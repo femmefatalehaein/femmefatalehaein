@@ -1,11 +1,11 @@
 ### 👋 Hi there!
 #### 최소비용 최대가치를 꿈꾸는 개발자 박해인입니다
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/femmefatalehaein?pet-id=644326307330533045"
-    width="1200"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/femmefatalehaein"
+  width="600"
+  height="300"
+/>
 </a>
 
 ### 🔧 Skills 
