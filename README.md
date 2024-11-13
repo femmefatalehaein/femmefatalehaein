@@ -1,7 +1,13 @@
 ### 👋 Hi there!
 #### 최소비용 최대가치를 꿈꾸는 개발자 박해인입니다
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=femmefatalehaein&hide_progress=true)
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=femmefatalehaein&show_icons=true&theme=transparent)-->
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/femmefatalehaein?pet-id=644326307330533045"
+    width="1200"
+    height="120"
+  />
+</a>
+
 ### 🔧 Skills 
 #### BACKEND
 <img src="https://img.shields.io/badge/springboot-green?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/spring JPA-green?style=for-the-badge&logo=hibernate&logoColor=white"> <img src="https://img.shields.io/badge/spring security-green?style=for-the-badge&logo=springsecurity&logoColor=white">  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -23,6 +29,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=femmefatalehaein&hide=stars&all_commits_include=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
+  
 
 ### EDUCATION
 
