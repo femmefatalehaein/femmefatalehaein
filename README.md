@@ -8,6 +8,11 @@
 />
 </a>
 
+### About me 👽
+
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://heathered-sun-277.notion.site/aa73303f90d6426e96546785c64ef5bd)
+
+
 ### 🔧 Skills 
 #### BACKEND
 <img src="https://img.shields.io/badge/springboot-green?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/spring JPA-green?style=for-the-badge&logo=hibernate&logoColor=white"> <img src="https://img.shields.io/badge/spring security-green?style=for-the-badge&logo=springsecurity&logoColor=white">  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white">
