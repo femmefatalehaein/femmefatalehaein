@@ -25,7 +25,7 @@
 
 #### ETC
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=amazonec2&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/graphQL-E10098?logo=graphQL&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&style=for-the-badge&logoColor=white">  <img src="https://img.shields.io/badge/kafka-231F20?logo=apachekafka&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Redis-FF4438?logo=Redis&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/github actions-2088FF?logo=githubactions&style=for-the-badge&logoColor=white">
-
+<!--
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=femmefatalehaein&hide=stars&all_commits_include=true" />
@@ -33,8 +33,7 @@
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/femmefatalehaein" width="340" />
   </a>
-</div>
-  
+</div>-->
 ### EDUCATION
 
 - **Bachelor of software at Duksung Women's University `2020`-`2023`**
