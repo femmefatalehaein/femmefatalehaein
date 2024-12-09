@@ -7,7 +7,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=femmefatalehaein)](https://velog.io/@femmefatalehaein/series/%EB%AF%B8%EB%8B%88pc-%EC%9D%B8%ED%85%94-n100-%ED%99%88%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95)
 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://heathered-sun-277.notion.site/aa73303f90d6426e96546785c64ef5bd)
+<!--[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://heathered-sun-277.notion.site/aa73303f90d6426e96546785c64ef5bd)-->
 
 ### 🔧 Skills 
 #### BACKEND
