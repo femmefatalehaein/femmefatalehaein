@@ -19,8 +19,8 @@
     </tr>
   </tbody>
 </table>
-
-![](./profile-3d-contrib/profile-night-view.svg)
+<!--
+![](./profile-3d-contrib/profile-night-view.svg)-->
 
 <!--[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://heathered-sun-277.notion.site/aa73303f90d6426e96546785c64ef5bd)-->
 
