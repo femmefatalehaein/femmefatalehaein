@@ -15,7 +15,7 @@
 
 
 #### FRONTEND
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 
 #### MOBILE
 <img src="https://img.shields.io/badge/android studio-FF9900?style=for-the-badge&logo=androidstudio&logoColor=white"> 
@@ -46,6 +46,7 @@
 - **2023 덕성여자대학교 캡스톤 디자인 경연대회 장려상**
 - **2023 제 2회 DS-Datathon 최우수상**
 - **2024 카카오 관광데이터 공모전 우수상**
+- **2024 ICT콤플렉스 제 13회 SW개발 공모전 장려상**
 
 
 <!--
