@@ -41,7 +41,7 @@
 ### EDUCATION
 
 - **Bachelor of software at Duksung Women's University `2020`-`2023`**
-- **SSAFY 12 `2024.07` ~ `PRESENT`**
+- **SSAFY 12 `2024.07` ~ `2024.12`**
 
 ### AWARDS
 
