@@ -38,12 +38,12 @@
     <img src="https://render.gitanimals.org/farms/femmefatalehaein" width="340" />
   </a>
 </div>-->
-### EDUCATION
+### 📝 EDUCATION
 
 - **Bachelor of software at Duksung Women's University `2020`-`2023`**
 - **SSAFY 12 `2024.07` ~ `2024.12`**
 
-### AWARDS
+### 🏆 AWARDS
 
 - **2021 제 9회 K-hackathon 우수상**
 - **2023 제 2회 덕성 해커톤 최우수상**
@@ -51,6 +51,13 @@
 - **2023 제 2회 DS-Datathon 최우수상**
 - **2024 카카오 관광데이터 공모전 우수상**
 - **2024 ICT콤플렉스 제 13회 SW개발 공모전 장려상**
+
+### 🐾 EXPERIENCE
+
+- **2021-2022 제 1대,2대 덕성여자대학교 소프트웨어전공 부학생회장**
+- **2022 제 1회 덕성여자대학교 과학기술학부 해커톤 준비위원회 부운영위원장**
+- **2023 제 1회 덕성여자대학교 소프트웨어전공 졸업준비위원회 위원장**
+
 
 
 <!--
