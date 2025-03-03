@@ -38,6 +38,10 @@
     <img src="https://render.gitanimals.org/farms/femmefatalehaein" width="340" />
   </a>
 </div>-->
+
+### 💪 CAREERS 
+- **Amazon Web Services DCO Trainee `2025` -`PRESENT`** 
+
 ### 📝 EDUCATION
 
 - **Bachelor of software at Duksung Women's University `2020`-`2023`**
