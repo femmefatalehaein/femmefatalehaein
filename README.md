@@ -41,14 +41,13 @@
 </div>-->
 
 ### 💪 CAREERS 
-- **Amazon Web Services DCO Trainee `2025` -`PRESENT`** 
+- Amazon Web Services DCO Trainee `2025` -`PRESENT`
 
 ### 📝 EDUCATION
+- Bachelor of software at Duksung Women's University `2020`-`2023`
+- SSAFY 12 `2024.07` ~ `2024.12`
 
-- **Bachelor of software at Duksung Women's University `2020`-`2023`**
-- **SSAFY 12 `2024.07` ~ `2024.12`**
-
-🏆 AWARDS
+### 🏆 AWARDS
 - 2021 9th K-Hackathon Excellence Award
 - 2023 2nd Duksung Hackathon Grand Prize
 - 2023 Duksung Women's University Capstone Design Competition Encouragement Award
@@ -56,7 +55,7 @@
 - 2024 Kakao Tourism Data Competition Excellence Award
 - 2024 ICT Complex 13th Software Development Contest Encouragement Award
 
-🐾 EXPERIENCE
+### 🐾 EXPERIENCE
 - 2021-2022 Vice President, 1st & 2nd Student Council of Software Major, Duksung Women's University
 - 2022 Deputy Director, Organizing Committee, 1st Hackathon of the School of Science and Technology, Duksung Women's University
 - 2023 Chairperson, 1st Graduation Preparation Committee, Software Major, Duksung Women's University
