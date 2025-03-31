@@ -1,5 +1,5 @@
 ### 👋 Hi there!
-> 최소비용 최대가치를 꿈꾸는 개발자 **박해인**입니다
+> Learn and be curious, practice frugality.
 > 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=femmefatalehaein)](https://velog.io/@femmefatalehaein/posts)
 
