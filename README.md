@@ -1,5 +1,5 @@
 ### 👋 Hi there!
-> Learn and be curious, practice frugality.
+> Learn and be curious
 > 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=femmefatalehaein)](https://velog.io/@femmefatalehaein/posts)
 
@@ -41,7 +41,8 @@
 </div>-->
 
 ### 💪 CAREERS 
-- Amazon Web Services DCO Trainee `2025` -`PRESENT`
+- Amazon Web Services DCO Trainee `2025.02` -`2025.05`
+- Amazon Web Services DCO Trainee `2025.05` -`PRESENT`
 
 ### 📝 EDUCATION
 - Bachelor of software at Duksung Women's University `2020`-`2023`
