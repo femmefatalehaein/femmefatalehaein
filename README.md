@@ -42,7 +42,7 @@
 
 ### 💪 CAREERS 
 - Amazon Web Services DCO Trainee `2025.02` -`2025.05`
-- Amazon Web Services DCO Trainee `2025.05` -`PRESENT`
+- Amazon Web Services DCO  `2025.05` -`PRESENT`
 
 ### 📝 EDUCATION
 - Bachelor of software at Duksung Women's University `2020`-`2023`
